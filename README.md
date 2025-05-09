@@ -1,4 +1,4 @@
-# Simplified Java UNO Game Implementation
+# CPSC225 : Intermediate Programming Project 1 - Simplified Java UNO Game Implementation
 
 This project is a Java implementation of the classic UNO card game, featuring a graphical user interface built with JavaFX. The game allows players to play UNO against a computer opponent, implementing core UNO game mechanics including special cards like Skip cards and Wild cards.
 
